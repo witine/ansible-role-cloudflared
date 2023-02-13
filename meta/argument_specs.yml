@@ -1,0 +1,8 @@
+---
+argument_specs:
+  main:
+    options:
+      use_cloudflare_repository:
+        type: bool
+        required: false
+        default: true
